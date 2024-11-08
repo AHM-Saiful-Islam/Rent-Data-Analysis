@@ -1,2 +1,2 @@
 # Rent-Data-Analysis
-Data Analysis project on rent in Berlin, Germany.
+Data Analysis project on apartment rent prediction.
